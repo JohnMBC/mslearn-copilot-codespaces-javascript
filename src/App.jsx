@@ -24,14 +24,13 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Johnny Michael Carvalho",
+  title: "Software Developed & Front-End Developer",
+  email: "johnny.michael.b.carvalho@gmail.com",
+  gitHub: "github.com/JohnMBC",
+  linkedIn: "linkedin.com/in/johnnymichaelbcarvalho",
   medium: "",
-  twitter: "microsoft",
+  twitter: "",
   youTube: "Code",
 };
 
@@ -51,3 +50,4 @@ const App = () => {
 };
 
 export default App;
+//
